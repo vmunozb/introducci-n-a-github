@@ -85,7 +85,7 @@ En las ramas adicionales, puedes hacer ediciones sin que afecten a la versión p
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Paso 2: Confirma los cambios (commit) de un archivo</h2></summary>
 
 _¡Has creado una rama!_ :tada:
@@ -126,7 +126,7 @@ Los siguientes pasos te guiarán en el proceso de confirmar un cambio en GitHub.
   and that the file was named correctly.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Paso 3: Abre una solicitud de extracción (pull request)</h2></summary>
 
 _Buen trabajo con ese commit_ :sparkles:
