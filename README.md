@@ -167,7 +167,7 @@ Es posible que hayas notado después de tu commit que aparece un mensaje indican
   if users accidentally closed without merging.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Combina tu pull request</h2></summary>
 
 _¡Bien hecho!_ :sunglasses:
@@ -196,7 +196,7 @@ Como se ha indicado en el paso anterior, es posible que hayas visto que se ejecu
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finalizar</h2></summary>
 
 _¡Enhorabuena! Has completado este curso y te has unido a la comunidad de desarrolladores_
