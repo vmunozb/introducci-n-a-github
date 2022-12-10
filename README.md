@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Paso 1: Crea una rama</h2></summary>
 
 _¡Bienvenida a "Introducción a GitHub"! :wave:_
@@ -85,7 +85,7 @@ En las ramas adicionales, puedes hacer ediciones sin que afecten a la versión p
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Paso 2: Confirma los cambios (commit) de un archivo</h2></summary>
 
 _¡Has creado una rama!_ :tada:
