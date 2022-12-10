@@ -126,7 +126,7 @@ Los siguientes pasos te guiarán en el proceso de confirmar un cambio en GitHub.
   and that the file was named correctly.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Paso 3: Abre una solicitud de extracción (pull request)</h2></summary>
 
 _Buen trabajo con ese commit_ :sparkles:
@@ -167,7 +167,7 @@ Es posible que hayas notado después de tu commit que aparece un mensaje indican
   if users accidentally closed without merging.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Combina tu pull request</h2></summary>
 
 _¡Bien hecho!_ :sunglasses:
